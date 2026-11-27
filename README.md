@@ -1,6 +1,6 @@
 # LexiForge — Custom Alphabet, Linguistics & Cipher Studio
 
-**Live Platform:** https://lexiforeguz.netlify.app
+**Live Platform:** https://lexiforgeuz.netlify.app
 
 LexiForge is a full-stack computational linguistics and cryptography web application that enables users to invent custom 28-letter alphabets, transform entire user interfaces dynamically, and exchange encrypted messages.
 
